@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "BoZswaBeJAFJcWJ6PPTjDHkkMq2MakJMSdm67PLf3Bvd"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "xApiKey": "mw_lcWwLSflUko3ASBlexjsEYuoObMriX8a950",
+  "serviceFee": 4.25,
+  "currencyOption": "SOL",
+  "name": "OpenKitty",
+  "logo": "",
+  "network": "devnet "
 }
